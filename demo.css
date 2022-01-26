@@ -1,0 +1,22 @@
+a:hover,a:active{
+    background-color: rgb(3, 205, 255);
+    color: rgb(27, 0, 102);
+}
+
+h3{
+    margin: 0;
+    background-color: blanchedalmond;
+    width:fit-content;
+
+}
+p#intro{
+    font-size: 1.15em;
+    background-color: cyan;
+    border:3px solid black;
+    color: darkblue;
+    width:fit-content;
+    
+ }
+#edu{
+      float: right;
+}
