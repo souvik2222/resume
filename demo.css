@@ -2,6 +2,10 @@ a:hover,a:active{
     background-color: rgb(3, 205, 255);
     color: rgb(27, 0, 102);
 }
+#phone{
+    text-decoration: none;
+    color: black;
+}
 
 h3{
     margin: 0;
